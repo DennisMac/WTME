@@ -1,4 +1,36 @@
 *.exe
 *.log
-/Experiment/Library/ShaderCache/*
-/Experiment/Library/metadata/*
+# =============== #
+# Unity generated #
+# =============== #
+/Experiment/[Tt]emp/
+/Experiment/[Oo]bj/
+/Experiment/[Bb]uild
+/Experiment/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+/Experiment/[Ee]xported[Oo]bj/
+/Experiment/.vs/
+/Experiment/*.userprefs
+/Experiment/*.csproj
+/Experiment/*.pidb
+/Experiment/*.suo
+/Experiment/*.sln*
+/Experiment/*.user
+/Experiment/*.unityproj
+/Experiment/*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
