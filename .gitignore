@@ -1,4 +1,4 @@
 *.exe
 *.log
 /Experiment/Library/ShaderCache/*
-
+/Experiment/Library/metadata/*
